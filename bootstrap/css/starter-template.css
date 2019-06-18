@@ -1,0 +1,11 @@
+body {
+    padding-top: 4em;
+}
+
+footer{
+    text-align: center;
+}
+
+.noBullet {
+    list-style-type: none;
+}  
